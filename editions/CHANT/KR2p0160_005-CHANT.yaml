@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五子曰民以君為心君以民為體心好則體安之君好則民欲之故心以體廌君以民亡詩云誰秉國成不自為正卒勞百姓君牙云日暑雨小民惟曰命資冬祁寒小民亦惟曰令
+  hash: sha256:e54505923290bbc0206890b732f857ddb5ceb17af86128ab4eefc06fc5021009
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_005-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:b12668cb410750e7300ac6a396dd8d940c3b3eca62824adaca8c8f004fb656f7

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/21
+seq: 21
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十一子曰惟君子能好其匹小人豈能好其匹故君子之友也有向其惡也有方此以邇者不惑而遠者不疑詩云君子好逑
+  hash: sha256:c21668106756203c419413ef431a4a7a2046657c4c0f32d5ab77d4874307773a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_021-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:5ca2b00560d087199fa95b8aba4299082aad86e9e403f15a0424b3390fdfcfa7

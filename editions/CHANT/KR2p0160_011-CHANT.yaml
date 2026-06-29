@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十一子曰大臣之不親也則忠敬不足而富貴已過邦家之不寧也則大臣不治而褻臣托也此以大臣不可不敬也民之蕝也故君不以小謀大則大臣不令祭公之顧命云毋以小謀敗大作毋以嬖御衋莊后毋以嬖士衋大夫卿士
+  hash: sha256:592d6e526d6746428630b293c9c57935901e5fef7d645000e6d4c005d1a253f3
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_011-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:8d018d20c1e9793f7fa068a52f5b3011674c974763a52e53042dfa6076955486

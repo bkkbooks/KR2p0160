@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四子曰王言如絲其出如緍王言如索其出如紼故大人不倡流詩云慎而出話敬爾威儀
+  hash: sha256:c3185a6476b39c753d9cbbd05515b4d9d58ab377379cca2c7fa74bd3b1ae603a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_014-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:9e301d941c819b668c73f54feac4d164e224a80cf2fa71b15ffa55507c58bc03

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三子曰為上可望而知也為下可述而志也則君不疑其臣臣不惑於君詩云淑人君子其儀不忒尹誥云惟伊允及湯咸有一德
+  hash: sha256:51a5fd6e9267b8d77fb6cfb2d52f54ce3c3cf714acf2f2ee46e301032f62085f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_003-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:14c28de1588e85e86d84d020dfb77d472154ba35dc5c8c9d23071ae272c41d71

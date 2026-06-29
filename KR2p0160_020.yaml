@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十子曰私惠不懷德君子不自留焉詩云人之好我示我周行
+  hash: sha256:f65cdf675a6ade8b8e937551bde5d8df14df96d88fe3b6251c672028244c0681
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_020-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:17cfde89fce949806db2746ef167c01509c9fa74c5a87ee5beb5507961594f34

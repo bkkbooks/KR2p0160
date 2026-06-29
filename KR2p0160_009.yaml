@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九子曰長民者衣服不改從容有常則民德一詩云其容不改出言有訓黎民所信
+  hash: sha256:7956fc5e7154c98c5c41b98dcc51fd0e39c8723b37f8a82e25b43fcd3ea7a179
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_009-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:100a6cd4b3eba2b7584dc7d8329fd9b40a45e1c41ff1694f9956e29d3f3afa5f

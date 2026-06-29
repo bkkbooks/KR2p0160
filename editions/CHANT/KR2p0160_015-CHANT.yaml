@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五子曰可言不可行君子弗言可行不可言君子弗行則民言不危行行不危言詩云淑慎爾止不衍於儀
+  hash: sha256:ed5b481d30a95026ac5b7292c611f073362d015fb3119af165e2fed848a81ad0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_015-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:fb5d17da93aa1cc20e747cbc7b4c6c0c4f4e739eb8b67b01a22518cd82292f50

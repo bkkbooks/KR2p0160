@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 八子曰下之事上也不從其所以命而從其所行上好此物也下必又甚安者矣故上之好惡不可不慎也民之表也詩云虩虩師尹民具爾瞻
+  hash: sha256:49a37591e800feae484533d4029603b948c25f1088817b7f515123a53bd4c908
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_008-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:1b4f66d98a7bfc268b6e418dc1edb9a78be70fc7233c1e772ee921ae1e0e7350

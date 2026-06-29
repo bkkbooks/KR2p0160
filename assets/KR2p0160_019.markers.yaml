@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR2p0160/bkk/v1/markers/19
+seq: 19
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 2, content: '', id: KR2p0160_CHANT_019-bkkxmlele1, name: p, role: open}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR2p0160_CHANT_019-1a.1}
+  - {type: 'tls:seg', offset: 2, content: '', id: KR2p0160_CHANT_019-1a.2}
+  - {type: punctuation, offset: 4, content: ：, id: KR2p0160_CHANT_019-bkkpn1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR2p0160_CHANT_019-1a.3}
+  - {type: punctuation, offset: 7, content: ，, id: KR2p0160_CHANT_019-bkkpn2}
+  - {type: 'tls:seg', offset: 7, content: '', id: KR2p0160_CHANT_019-1a.4}
+  - {type: punctuation, offset: 11, content: 。, id: KR2p0160_CHANT_019-bkkpn3}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR2p0160_CHANT_019-1a.5}
+  - {type: punctuation, offset: 14, content: ，, id: KR2p0160_CHANT_019-bkkpn4}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR2p0160_CHANT_019-1a.6}
+  - {type: punctuation, offset: 18, content: 。, id: KR2p0160_CHANT_019-bkkpn5}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR2p0160_CHANT_019-1a.7}
+  - {type: punctuation, offset: 22, content: ，, id: KR2p0160_CHANT_019-bkkpn6}
+  - {type: 'tls:seg', offset: 22, content: '', id: KR2p0160_CHANT_019-1a.8}
+  - {type: punctuation, offset: 26, content: 。, id: KR2p0160_CHANT_019-bkkpn7}
+  - {type: 'tls:seg', offset: 26, content: '', id: KR2p0160_CHANT_019-1a.9}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR2p0160_CHANT_019-1a.10}
+  - {type: punctuation, offset: 33, content: 。, id: KR2p0160_CHANT_019-bkkpn8}
+  - {type: 'tls:seg', offset: 33, content: '', id: KR2p0160_CHANT_019-1a.11}
+  - {type: punctuation, offset: 33, content: 《, id: KR2p0160_CHANT_019-bkkpn9}
+  - {type: punctuation, offset: 34, content: 》, id: KR2p0160_CHANT_019-bkkpn10}
+  - {type: punctuation, offset: 35, content: ：, id: KR2p0160_CHANT_019-bkkpn11}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2p0160_CHANT_019-1a.12}
+  - {type: punctuation, offset: 35, content: 「, id: KR2p0160_CHANT_019-bkkpn12}
+  - {type: punctuation, offset: 39, content: 。, id: KR2p0160_CHANT_019-bkkpn13}
+  - {type: punctuation, offset: 39, content: 」, id: KR2p0160_CHANT_019-bkkpn14}
+  - {type: xml-element, offset: 39, content: '', id: KR2p0160_CHANT_019-bkkxmlele2, name: p, role: close}
+  back: []
+hash: sha256:973299688d433cf497f0daf558228ac4f28465d9363a72c38fca511788a8f7e0

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0160/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四子曰上人疑則百姓惑下難知則君長勞故君民者章好以示民欲慎惡以禦民淫則民不惑臣事君言其所不能不辭其所能則君不勞大雅云上帝板板下民卒疸小雅云惟王之邛
+  hash: sha256:7b00ad0acdd08a37310a5defa9607d169e1f3938d03a298c3299be2a55fe325b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_004-1a.1-h}
+metadata:
+  title: 緇衣
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+hash: sha256:3a847a669d335bd2bebf56a50cd459f38ed6a247760aed9762350708b2e5791e

@@ -1,0 +1,297 @@
+canonical_identifier: bkk:krp/KR2p0160/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR2p0160/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 緇衣
+  identifiers:
+    krp: KR2p0160
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0160.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0160_001-CHANT.yaml, hash: 'sha256:9362a87260073dd48cdf710dc85c9d59188132b3014505c586b41cc7bef63b8e'}
+  - {seq: 2, filename: KR2p0160_002-CHANT.yaml, hash: 'sha256:53da2ed7d82017fd74857b6d399b3657eafa48de526a2198965926c6f6d92605'}
+  - {seq: 3, filename: KR2p0160_003-CHANT.yaml, hash: 'sha256:14c28de1588e85e86d84d020dfb77d472154ba35dc5c8c9d23071ae272c41d71'}
+  - {seq: 4, filename: KR2p0160_004-CHANT.yaml, hash: 'sha256:3a847a669d335bd2bebf56a50cd459f38ed6a247760aed9762350708b2e5791e'}
+  - {seq: 5, filename: KR2p0160_005-CHANT.yaml, hash: 'sha256:b12668cb410750e7300ac6a396dd8d940c3b3eca62824adaca8c8f004fb656f7'}
+  - {seq: 6, filename: KR2p0160_006-CHANT.yaml, hash: 'sha256:c7a1cd6aa384a01e641fe30b1def9c3b05d0c4233398e24d693c411516800a9c'}
+  - {seq: 7, filename: KR2p0160_007-CHANT.yaml, hash: 'sha256:37d6c7f6415759142fbb10649328b930e6c206b3999b4bfffbf25cbcd7ce1607'}
+  - {seq: 8, filename: KR2p0160_008-CHANT.yaml, hash: 'sha256:1b4f66d98a7bfc268b6e418dc1edb9a78be70fc7233c1e772ee921ae1e0e7350'}
+  - {seq: 9, filename: KR2p0160_009-CHANT.yaml, hash: 'sha256:100a6cd4b3eba2b7584dc7d8329fd9b40a45e1c41ff1694f9956e29d3f3afa5f'}
+  - {seq: 10, filename: KR2p0160_010-CHANT.yaml, hash: 'sha256:18222a604f076a93e0aa178879df02c785165d105e26b7af273d50ef3c72e59b'}
+  - {seq: 11, filename: KR2p0160_011-CHANT.yaml, hash: 'sha256:8d018d20c1e9793f7fa068a52f5b3011674c974763a52e53042dfa6076955486'}
+  - {seq: 12, filename: KR2p0160_012-CHANT.yaml, hash: 'sha256:7971d470336b3416c0d25b1a74702bc7b443e02fd8d432581bd3a13277b6f7f0'}
+  - {seq: 13, filename: KR2p0160_013-CHANT.yaml, hash: 'sha256:5674d1ce6fa548f9caed4eeac5b75aadd79a2579c6e2f509e65e101122d5c95d'}
+  - {seq: 14, filename: KR2p0160_014-CHANT.yaml, hash: 'sha256:9e301d941c819b668c73f54feac4d164e224a80cf2fa71b15ffa55507c58bc03'}
+  - {seq: 15, filename: KR2p0160_015-CHANT.yaml, hash: 'sha256:fb5d17da93aa1cc20e747cbc7b4c6c0c4f4e739eb8b67b01a22518cd82292f50'}
+  - {seq: 16, filename: KR2p0160_016-CHANT.yaml, hash: 'sha256:9d747f0b492a7b515403161296042c64ffcd218e53162a0d1ddd4eb6d6004989'}
+  - {seq: 17, filename: KR2p0160_017-CHANT.yaml, hash: 'sha256:eaa9ecf1350d8e22a029a0c2eb84fd5fe745c1349a324323d3da65e63d058b32'}
+  - {seq: 18, filename: KR2p0160_018-CHANT.yaml, hash: 'sha256:8959a919f980fb72d320e75e615898286988e8b100fabaf98c22d4a9595968c0'}
+  - {seq: 19, filename: KR2p0160_019-CHANT.yaml, hash: 'sha256:5254e4a591df3df7a5c58efd98f480d67c37146c346cdc870d71ed0e059e4970'}
+  - {seq: 20, filename: KR2p0160_020-CHANT.yaml, hash: 'sha256:17cfde89fce949806db2746ef167c01509c9fa74c5a87ee5beb5507961594f34'}
+  - {seq: 21, filename: KR2p0160_021-CHANT.yaml, hash: 'sha256:5ca2b00560d087199fa95b8aba4299082aad86e9e403f15a0424b3390fdfcfa7'}
+  - {seq: 22, filename: KR2p0160_022-CHANT.yaml, hash: 'sha256:ec2dc0ce3b478f1236cf6ef09bffbbb0661168cbb5b0d8e54689dcc4f667b26a'}
+  - {seq: 23, filename: KR2p0160_023-CHANT.yaml, hash: 'sha256:8402128fddd56fd4e5074899497c527147b868ef56eea29356bb7e62f6b666b4'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0160_001-CHANT.markers.yaml, hash: 'sha256:d8597f256ede557e0183b931cf5d1ffb52f5cb46b6c322e8f971204df01ed187'}
+  - {seq: 2, role: markers, filename: assets/KR2p0160_002-CHANT.markers.yaml, hash: 'sha256:6eaae32d6f778563b209e6e573746812b90e2c297c05724de7165a100a399a74'}
+  - {seq: 3, role: markers, filename: assets/KR2p0160_003-CHANT.markers.yaml, hash: 'sha256:b902f076730e905f2e7f57258a14a3162bbc541b92a361afbe8386195ae1780f'}
+  - {seq: 4, role: markers, filename: assets/KR2p0160_004-CHANT.markers.yaml, hash: 'sha256:f05d424ff6ff8973bf56e94db40ee9812f0a7b46c323e521b3b7d772c7d4941c'}
+  - {seq: 5, role: markers, filename: assets/KR2p0160_005-CHANT.markers.yaml, hash: 'sha256:537468eb92415e81dd313b164a2bf2d9d5f19c9663118713363a32ff4d397a34'}
+  - {seq: 6, role: markers, filename: assets/KR2p0160_006-CHANT.markers.yaml, hash: 'sha256:afa90eca58de8cee4d11cbd73667ec3b96177dd8e3e1f2bf764465140100565a'}
+  - {seq: 7, role: markers, filename: assets/KR2p0160_007-CHANT.markers.yaml, hash: 'sha256:6c87a61d4bbf12fda42929d438ebe53554489178d1200d601eecf4c83a1e3cd0'}
+  - {seq: 8, role: markers, filename: assets/KR2p0160_008-CHANT.markers.yaml, hash: 'sha256:ff67853e835e3603ccabfff84e429e724bb7562a213ec804ed7a1e9ab67214b4'}
+  - {seq: 9, role: markers, filename: assets/KR2p0160_009-CHANT.markers.yaml, hash: 'sha256:95795242b379250f49e7ba4ed9022a7fbf570d2d20f3124ba3707398cc39d9f3'}
+  - {seq: 10, role: markers, filename: assets/KR2p0160_010-CHANT.markers.yaml, hash: 'sha256:7b33ea720577b74481cf45d44d8613676a7836cca8a44a17da429b12ad820d19'}
+  - {seq: 11, role: markers, filename: assets/KR2p0160_011-CHANT.markers.yaml, hash: 'sha256:ab0050cbad6e627b6a853f4ed1ff6da25d3a089e609b278873352d00df61b517'}
+  - {seq: 12, role: markers, filename: assets/KR2p0160_012-CHANT.markers.yaml, hash: 'sha256:3124bd07748d853f8978629ce61217f89e93304a711879528a1d09ebf8098159'}
+  - {seq: 13, role: markers, filename: assets/KR2p0160_013-CHANT.markers.yaml, hash: 'sha256:2a2133c1f8e2fe6570372eed205baadb62055e69c07194fe4ec6c58acce45c57'}
+  - {seq: 14, role: markers, filename: assets/KR2p0160_014-CHANT.markers.yaml, hash: 'sha256:a71a98d77bfa34704b0093fca8a0671d4c70d61d9f684b6775956d81ad33a233'}
+  - {seq: 15, role: markers, filename: assets/KR2p0160_015-CHANT.markers.yaml, hash: 'sha256:f07779e419a100bac4b66b80c6c37325a5989d707b358c6ab881eeabc81d262d'}
+  - {seq: 16, role: markers, filename: assets/KR2p0160_016-CHANT.markers.yaml, hash: 'sha256:c2ca08ed4a2221dd3e5551933bd00db6271ad824f85a58faeb8df9ce868e756c'}
+  - {seq: 17, role: markers, filename: assets/KR2p0160_017-CHANT.markers.yaml, hash: 'sha256:6744f7a40f77a44aebe3e8d69f3d12569e4fb060fae2b2b022aa9668bd82e98b'}
+  - {seq: 18, role: markers, filename: assets/KR2p0160_018-CHANT.markers.yaml, hash: 'sha256:20bafdc42865fb15ad442c9b42c595ec782259d2f801faca48575d019fdc8822'}
+  - {seq: 19, role: markers, filename: assets/KR2p0160_019-CHANT.markers.yaml, hash: 'sha256:1fe0a3216fd121772fd2be9c19692efbf3fa8537f88299fc14d00ff65fb23116'}
+  - {seq: 20, role: markers, filename: assets/KR2p0160_020-CHANT.markers.yaml, hash: 'sha256:8755ebd402ac909344b3b8308d9937c0243285242da30c04c922d22c1353f93d'}
+  - {seq: 21, role: markers, filename: assets/KR2p0160_021-CHANT.markers.yaml, hash: 'sha256:bccad93b7b6da33c97088b3dc64c705515bf1ffa10ea4f42e7f941b5a7bfdf15'}
+  - {seq: 22, role: markers, filename: assets/KR2p0160_022-CHANT.markers.yaml, hash: 'sha256:3002642a201e837b259bd78d61101319f346cdf68ccdc35b961cf0b8c5bf0e56'}
+  - {seq: 23, role: markers, filename: assets/KR2p0160_023-CHANT.markers.yaml, hash: 'sha256:dc7aeaf071ed2a587ed29d2a8ac28edb2cabf8bf1a76bdd95c696d8bdf624235'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0160_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 34
+  label: 一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0160_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 29
+  label: 二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0160_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 50
+  label: 三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0160_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 72
+  label: 四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0160_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 69
+  label: 五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0160_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 42
+  label: 六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2p0160_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 37
+  label: 七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2p0160_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 55
+  label: 八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2p0160_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 32
+  label: 九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2p0160_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 59
+  label: 十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR2p0160_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 90
+  label: 十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR2p0160_CHANT_012-1a.1-h
+    span:
+    - body
+    - 0
+    - 90
+  label: 十二
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR2p0160_CHANT_013-1a.1-h
+    span:
+    - body
+    - 0
+    - 48
+  label: 十三
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR2p0160_CHANT_014-1a.1-h
+    span:
+    - body
+    - 0
+    - 36
+  label: 十四
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR2p0160_CHANT_015-1a.1-h
+    span:
+    - body
+    - 0
+    - 42
+  label: 十五
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR2p0160_CHANT_016-1a.1-h
+    span:
+    - body
+    - 0
+    - 46
+  label: 十六
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR2p0160_CHANT_017-1a.1-h
+    span:
+    - body
+    - 0
+    - 83
+  label: 十七
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR2p0160_CHANT_018-1a.1-h
+    span:
+    - body
+    - 0
+    - 67
+  label: 十八
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR2p0160_CHANT_019-1a.1-h
+    span:
+    - body
+    - 0
+    - 39
+  label: 十九
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR2p0160_CHANT_020-1a.1-h
+    span:
+    - body
+    - 0
+    - 25
+  label: 二十
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR2p0160_CHANT_021-1a.1-h
+    span:
+    - body
+    - 0
+    - 49
+  label: 二十一
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR2p0160_CHANT_022-1a.1-h
+    span:
+    - body
+    - 0
+    - 44
+  label: 二十二
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR2p0160_CHANT_023-1a.1-h
+    span:
+    - body
+    - 0
+    - 46
+  label: 二十三
+  type: section
+  level: 1
+hash: sha256:0e1a10dd6c31296d7d5d8e3df848f928ed0756f45774e7a7dbd5313f72bd88d7
