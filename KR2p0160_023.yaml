@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 二十三子曰宋人有言曰人而亡恆不可為卜筮也其古之遺言與龜筮猶弗知而況於人乎詩云我龜既厭不我告猷
-  hash: sha256:42d923e4ac8b9f5bf21f069ebd336b5cfd0999cb383323842d0ed6b8ce9aae39
+  text: 二十三子曰宋人有言曰人而亡恒不可為卜筮也其古之遺言與龜筮猶弗知而況於人乎詩云我龜既厭不我告猷
+  hash: sha256:3f12a7aba896f063a860742a6b6f1eba229124ad288d82d866e0354f36a9cc37
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_023-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0160.xml
-hash: sha256:87a5b54af443f9504ec4920cba3fad5e6173bbd9583c4a61ef5cafeef42fcd80
+hash: sha256:8402128fddd56fd4e5074899497c527147b868ef56eea29356bb7e62f6b666b4

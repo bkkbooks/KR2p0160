@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 二十二子曰輕絶貧賤而厚絶富貴則好仁不堅而惡不著也人雖曰不利吾弗信之矣詩云朋友攸攝攝以威儀
-  hash: sha256:3925e2892d91f523387558d52daa5f388b1a1e12d95b02c137ad1e277df050c2
+  text: 二十二子曰輕絕貧賤而厚絕富貴則好仁不堅而惡不著也人雖曰不利吾弗信之矣詩云朋友攸攝攝以威儀
+  hash: sha256:90e9f3042cab99ad5cec3e7d37bed35f12f4b7fd324bff9057a2b62cbd565ba7
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_022-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0160.xml
-hash: sha256:a19848fe188fd9b686ea9b88e9ecb547bcb403a43211726b8e88699df1a15bcf
+hash: sha256:ec2dc0ce3b478f1236cf6ef09bffbbb0661168cbb5b0d8e54689dcc4f667b26a

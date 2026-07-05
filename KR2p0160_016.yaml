@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 十六子曰君子道人以言而恆以行故言則慮其所終行則稽其所敝則民慎於言而謹於行詩云穆穆文王於緝熙止
-  hash: sha256:60a815970b3b1b6e25ea23b1904afbc19aa55d603e5a1c2bfa5126c29bdbfabb
+  text: 十六子曰君子道人以言而恒以行故言則慮其所終行則稽其所敝則民慎於言而謹於行詩云穆穆文王於緝熙止
+  hash: sha256:4ec64c23b619ce4dc0e3ceacb16dbcc62a46231fc367a4004cb45e1ba229232c
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0160_CHANT_016-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0160.xml
-hash: sha256:8b51d35c93216073048569cf29c325ffbab7964dc9e58cdd2ce072e5068a4acd
+hash: sha256:9d747f0b492a7b515403161296042c64ffcd218e53162a0d1ddd4eb6d6004989
